@@ -1,0 +1,78 @@
+.kanban-card {
+    background-color: #fff;
+    border: 1px solid #19436b;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.kanban-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.kanban-card p {
+    margin: 0;
+    color: #666;
+}
+
+.kanban-btn {
+    background-color: #3185bc;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+.kanban-btn:hover {
+    background-color: #185983;
+}
+
+.kanban-btn.cancel {
+    background-color: #3498db;
+}
+
+.kanban-btn.cancel:hover {
+    background-color: #2980b9;
+}
+
+.kanban-input,
+.kanban-textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #19436b;
+    border-radius: 4px;
+}
+
+.kanban-card-edit {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.kanban-btn.save {
+    background-color: #27ae60;
+    color: white;
+}
+
+.kanban-btn.save:hover {
+    background-color: #0f512a;
+}
+
+.kanban-btn.cancel {
+    background-color: #c0392b;
+    color: white;
+}
+
+.kanban-btn.cancel:hover {
+    background-color: #84271d;
+}

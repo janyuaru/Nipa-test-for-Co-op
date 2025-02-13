@@ -1,0 +1,18 @@
+.container-navbar {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: #001529;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+  }
+  

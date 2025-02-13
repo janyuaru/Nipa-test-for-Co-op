@@ -1,0 +1,99 @@
+/* KanbanColumn.css */
+
+/* .kanban-column {
+    background: #fff;
+    padding: 16px;
+    border-radius: 16px;
+    min-width: 250px;
+    max-height: 500px; 
+    overflow-y: auto;
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+} */
+
+.kanban-column {
+    flex: 1;
+    margin: 0 10px;
+    background-color: #22588b;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    /* border: #19436b 1px solid; */
+    min-width: 250px;
+    max-height: 480px; 
+    overflow-y: auto;
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+}
+
+.kanban-column h2 {
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #fff ;
+    padding-bottom: 10px;
+}
+
+.kanban-add-btn {
+    background-color: #3c9fe1;
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.kanban-add-btn:hover {
+    color: #22588b;
+    background-color: white;
+}
+
+.add-form {
+    background: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.add-form input,
+.add-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.button-save {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button-save:hover {
+    background-color: #0f512a;
+}
+
+.button-cancel {
+    background-color: #c0392b;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button-cancel:hover {
+    background-color: #a52a0a;
+} 
+
