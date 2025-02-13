@@ -1,6 +1,6 @@
 # Nipa-test-for-Co-op
 
-# Ticket Management
+## Ticket Management
 Link: https://drive.google.com/drive/folders/1EIFW9zOpQ_cP3XyPp3pWt7MVxP2IpYhV?usp=sharing 
 
 ## คำอธิบายโปรเจค
