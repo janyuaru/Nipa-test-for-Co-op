@@ -10,7 +10,7 @@ Link: https://drive.google.com/drive/folders/1EIFW9zOpQ_cP3XyPp3pWt7MVxP2IpYhV?u
   - **Backend Development**: Golang
   - **Database Management**: PostgreSQL
 
-##วิธีใช้งาน
+## วิธีใช้งาน
   - กดปุ่ม Add Task เพื่อเพิ่มข้อมูลตั๋วใหม่
   - กดปุ่ม Edit เพื่อแก้ไขข้อมูลตั๋ว
   - กรอกข้อมูลที่ต้องการอัปเดต และกด Save เพื่อบันทึกการเปลี่ยนแปลง
@@ -20,7 +20,7 @@ Link: https://drive.google.com/drive/folders/1EIFW9zOpQ_cP3XyPp3pWt7MVxP2IpYhV?u
     Resolved
     Rejected
 
-##ฟีเจอร์หลัก
+## ฟีเจอร์หลัก
   - เพิ่มข้อมูล
   - แก้ไขข้อมูล
   - อัปเดตสถานะของข้อมูล
